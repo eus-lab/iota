@@ -16,6 +16,8 @@
 
 ![自動車の認識](./bike2.jpg)
 
+[研究テーマの詳細](https://github.com/eus-lab/eus)
+
 ### 組込みシステムとは
 <details><summary>説明を見る</summary><div>
 組込みシステムには、小型ハードウェア(省電力CPU、小さいメモリ量、冷却機能なし等)、リアルタイム性能(外が相手のシステムですから待ってくれません。自動車では運転者が障害物を認識してから実際にブレーキを踏むまで300ミリ秒以内と言われています)、場合によっては、途中で不具合があっては困りますから高い信頼性等が要求されます。
@@ -40,3 +42,4 @@
 - [Google Scholar](https://scholar.google.co.jp/citations?user=-yzL0TsAAAAJ&hl=ja)
 
 - [DBLP](https://dblp.org/pid/95/5961.html)
+
